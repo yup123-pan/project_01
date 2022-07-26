@@ -2,5 +2,6 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: cyan;
+  background-color: rgb(181, 181, 181);
+  font-weight: 800;
 }
